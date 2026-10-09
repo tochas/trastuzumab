@@ -1,0 +1,777 @@
+{
+  "counts": {
+    "A": 214,
+    "B": 220
+  },
+  "bridges": [
+    [
+      "A23",
+      "A88"
+    ],
+    [
+      "A134",
+      "A194"
+    ],
+    [
+      "B22",
+      "B96"
+    ],
+    [
+      "B147",
+      "B203"
+    ]
+  ],
+  "contacts": [
+    {
+      "fab": "B103",
+      "her2": "C593",
+      "distance": 2.417,
+      "atomFab": "O",
+      "atomHER2": "NZ"
+    },
+    {
+      "fab": "B50",
+      "her2": "C560",
+      "distance": 2.601,
+      "atomFab": "NH2",
+      "atomHER2": "OD2"
+    },
+    {
+      "fab": "A94",
+      "her2": "C560",
+      "distance": 2.823,
+      "atomFab": "OG1",
+      "atomHER2": "OD2"
+    },
+    {
+      "fab": "A91",
+      "her2": "C571",
+      "distance": 2.888,
+      "atomFab": "CD2",
+      "atomHER2": "O"
+    },
+    {
+      "fab": "A92",
+      "her2": "C569",
+      "distance": 2.957,
+      "atomFab": "OH",
+      "atomHER2": "NZ"
+    },
+    {
+      "fab": "A30",
+      "her2": "C596",
+      "distance": 2.986,
+      "atomFab": "OD1",
+      "atomHER2": "OD2"
+    },
+    {
+      "fab": "A31",
+      "her2": "C602",
+      "distance": 3.048,
+      "atomFab": "CG2",
+      "atomHER2": "OE1"
+    },
+    {
+      "fab": "A91",
+      "her2": "C572",
+      "distance": 3.109,
+      "atomFab": "O",
+      "atomHER2": "N"
+    },
+    {
+      "fab": "A30",
+      "her2": "C602",
+      "distance": 3.12,
+      "atomFab": "ND2",
+      "atomHER2": "NE2"
+    },
+    {
+      "fab": "B50",
+      "her2": "C558",
+      "distance": 3.133,
+      "atomFab": "NH1",
+      "atomHER2": "OE1"
+    },
+    {
+      "fab": "A31",
+      "her2": "C602",
+      "distance": 3.134,
+      "atomFab": "CB",
+      "atomHER2": "OE1"
+    },
+    {
+      "fab": "B103",
+      "her2": "C593",
+      "distance": 3.204,
+      "atomFab": "C",
+      "atomHER2": "NZ"
+    },
+    {
+      "fab": "A30",
+      "her2": "C602",
+      "distance": 3.221,
+      "atomFab": "ND2",
+      "atomHER2": "OE1"
+    },
+    {
+      "fab": "A92",
+      "her2": "C572",
+      "distance": 3.244,
+      "atomFab": "O",
+      "atomHER2": "CA"
+    },
+    {
+      "fab": "A91",
+      "her2": "C572",
+      "distance": 3.29,
+      "atomFab": "O",
+      "atomHER2": "CD"
+    },
+    {
+      "fab": "B105",
+      "her2": "C571",
+      "distance": 3.32,
+      "atomFab": "CD1",
+      "atomHER2": "O"
+    },
+    {
+      "fab": "A31",
+      "her2": "C602",
+      "distance": 3.384,
+      "atomFab": "OG1",
+      "atomHER2": "OE1"
+    },
+    {
+      "fab": "A94",
+      "her2": "C560",
+      "distance": 3.386,
+      "atomFab": "CB",
+      "atomHER2": "OD2"
+    },
+    {
+      "fab": "A91",
+      "her2": "C571",
+      "distance": 3.393,
+      "atomFab": "O",
+      "atomHER2": "C"
+    },
+    {
+      "fab": "A91",
+      "her2": "C572",
+      "distance": 3.393,
+      "atomFab": "O",
+      "atomHER2": "CB"
+    },
+    {
+      "fab": "B33",
+      "her2": "C573",
+      "distance": 3.416,
+      "atomFab": "OH",
+      "atomHER2": "CZ"
+    },
+    {
+      "fab": "A91",
+      "her2": "C571",
+      "distance": 3.424,
+      "atomFab": "NE2",
+      "atomHER2": "O"
+    },
+    {
+      "fab": "B59",
+      "her2": "C558",
+      "distance": 3.425,
+      "atomFab": "CD",
+      "atomHER2": "OE2"
+    },
+    {
+      "fab": "B103",
+      "her2": "C593",
+      "distance": 3.439,
+      "atomFab": "O",
+      "atomHER2": "CE"
+    },
+    {
+      "fab": "B105",
+      "her2": "C573",
+      "distance": 3.441,
+      "atomFab": "CZ",
+      "atomHER2": "CD1"
+    },
+    {
+      "fab": "A92",
+      "her2": "C569",
+      "distance": 3.471,
+      "atomFab": "CZ",
+      "atomHER2": "NZ"
+    },
+    {
+      "fab": "B105",
+      "her2": "C573",
+      "distance": 3.48,
+      "atomFab": "CE1",
+      "atomHER2": "CD1"
+    },
+    {
+      "fab": "A91",
+      "her2": "C572",
+      "distance": 3.489,
+      "atomFab": "O",
+      "atomHER2": "CA"
+    },
+    {
+      "fab": "B105",
+      "her2": "C570",
+      "distance": 3.496,
+      "atomFab": "CE1",
+      "atomHER2": "O"
+    },
+    {
+      "fab": "B57",
+      "her2": "C557",
+      "distance": 3.512,
+      "atomFab": "CZ",
+      "atomHER2": "CB"
+    },
+    {
+      "fab": "A30",
+      "her2": "C598",
+      "distance": 3.52,
+      "atomFab": "OD1",
+      "atomHER2": "OE1"
+    },
+    {
+      "fab": "B33",
+      "her2": "C573",
+      "distance": 3.531,
+      "atomFab": "CZ",
+      "atomHER2": "CZ"
+    },
+    {
+      "fab": "B57",
+      "her2": "C557",
+      "distance": 3.561,
+      "atomFab": "OH",
+      "atomHER2": "CB"
+    },
+    {
+      "fab": "A30",
+      "her2": "C602",
+      "distance": 3.563,
+      "atomFab": "ND2",
+      "atomHER2": "CD"
+    },
+    {
+      "fab": "A53",
+      "her2": "C603",
+      "distance": 3.564,
+      "atomFab": "CZ",
+      "atomHER2": "O"
+    },
+    {
+      "fab": "B57",
+      "her2": "C558",
+      "distance": 3.574,
+      "atomFab": "CD1",
+      "atomHER2": "CG"
+    },
+    {
+      "fab": "A91",
+      "her2": "C571",
+      "distance": 3.587,
+      "atomFab": "O",
+      "atomHER2": "O"
+    },
+    {
+      "fab": "B59",
+      "her2": "C558",
+      "distance": 3.588,
+      "atomFab": "CG",
+      "atomHER2": "OE2"
+    },
+    {
+      "fab": "A92",
+      "her2": "C572",
+      "distance": 3.59,
+      "atomFab": "O",
+      "atomHER2": "CB"
+    },
+    {
+      "fab": "B105",
+      "her2": "C573",
+      "distance": 3.593,
+      "atomFab": "CE2",
+      "atomHER2": "CE1"
+    },
+    {
+      "fab": "B59",
+      "her2": "C560",
+      "distance": 3.608,
+      "atomFab": "NH1",
+      "atomHER2": "OD2"
+    },
+    {
+      "fab": "A50",
+      "her2": "C603",
+      "distance": 3.615,
+      "atomFab": "CB",
+      "atomHER2": "CG"
+    },
+    {
+      "fab": "B50",
+      "her2": "C558",
+      "distance": 3.615,
+      "atomFab": "NH1",
+      "atomHER2": "OE2"
+    },
+    {
+      "fab": "B105",
+      "her2": "C573",
+      "distance": 3.64,
+      "atomFab": "CZ",
+      "atomHER2": "CE1"
+    },
+    {
+      "fab": "A50",
+      "her2": "C603",
+      "distance": 3.659,
+      "atomFab": "OG",
+      "atomHER2": "CG"
+    },
+    {
+      "fab": "B103",
+      "her2": "C570",
+      "distance": 3.663,
+      "atomFab": "CA",
+      "atomHER2": "OD2"
+    },
+    {
+      "fab": "B57",
+      "her2": "C558",
+      "distance": 3.664,
+      "atomFab": "CB",
+      "atomHER2": "CD"
+    },
+    {
+      "fab": "B33",
+      "her2": "C573",
+      "distance": 3.679,
+      "atomFab": "OH",
+      "atomHER2": "CE2"
+    },
+    {
+      "fab": "B103",
+      "her2": "C593",
+      "distance": 3.688,
+      "atomFab": "CA",
+      "atomHER2": "NZ"
+    },
+    {
+      "fab": "B57",
+      "her2": "C558",
+      "distance": 3.689,
+      "atomFab": "CB",
+      "atomHER2": "OE1"
+    },
+    {
+      "fab": "B59",
+      "her2": "C560",
+      "distance": 3.692,
+      "atomFab": "NH1",
+      "atomHER2": "OD1"
+    },
+    {
+      "fab": "A32",
+      "her2": "C571",
+      "distance": 3.695,
+      "atomFab": "CB",
+      "atomHER2": "CB"
+    },
+    {
+      "fab": "A92",
+      "her2": "C571",
+      "distance": 3.712,
+      "atomFab": "CD1",
+      "atomHER2": "CB"
+    },
+    {
+      "fab": "B59",
+      "her2": "C561",
+      "distance": 3.712,
+      "atomFab": "CD",
+      "atomHER2": "NE2"
+    },
+    {
+      "fab": "B50",
+      "her2": "C560",
+      "distance": 3.714,
+      "atomFab": "NH2",
+      "atomHER2": "CG"
+    },
+    {
+      "fab": "B105",
+      "her2": "C570",
+      "distance": 3.727,
+      "atomFab": "CD1",
+      "atomHER2": "O"
+    },
+    {
+      "fab": "A53",
+      "her2": "C603",
+      "distance": 3.728,
+      "atomFab": "CZ",
+      "atomHER2": "CB"
+    },
+    {
+      "fab": "B50",
+      "her2": "C558",
+      "distance": 3.74,
+      "atomFab": "NH1",
+      "atomHER2": "CD"
+    },
+    {
+      "fab": "A91",
+      "her2": "C571",
+      "distance": 3.743,
+      "atomFab": "CD2",
+      "atomHER2": "C"
+    },
+    {
+      "fab": "B103",
+      "her2": "C591",
+      "distance": 3.743,
+      "atomFab": "O",
+      "atomHER2": "CG2"
+    },
+    {
+      "fab": "B57",
+      "her2": "C557",
+      "distance": 3.745,
+      "atomFab": "CE2",
+      "atomHER2": "CG"
+    },
+    {
+      "fab": "A53",
+      "her2": "C603",
+      "distance": 3.756,
+      "atomFab": "CE1",
+      "atomHER2": "CG"
+    },
+    {
+      "fab": "B59",
+      "her2": "C561",
+      "distance": 3.762,
+      "atomFab": "NE",
+      "atomHER2": "NE2"
+    },
+    {
+      "fab": "B105",
+      "her2": "C573",
+      "distance": 3.762,
+      "atomFab": "OH",
+      "atomHER2": "CD1"
+    },
+    {
+      "fab": "B59",
+      "her2": "C561",
+      "distance": 3.772,
+      "atomFab": "NH1",
+      "atomHER2": "CG"
+    },
+    {
+      "fab": "A94",
+      "her2": "C560",
+      "distance": 3.781,
+      "atomFab": "OG1",
+      "atomHER2": "CG"
+    },
+    {
+      "fab": "B57",
+      "her2": "C557",
+      "distance": 3.783,
+      "atomFab": "CE1",
+      "atomHER2": "CB"
+    },
+    {
+      "fab": "B57",
+      "her2": "C557",
+      "distance": 3.788,
+      "atomFab": "CZ",
+      "atomHER2": "CG"
+    },
+    {
+      "fab": "B103",
+      "her2": "C593",
+      "distance": 3.796,
+      "atomFab": "O",
+      "atomHER2": "CD"
+    },
+    {
+      "fab": "A53",
+      "her2": "C603",
+      "distance": 3.799,
+      "atomFab": "CE1",
+      "atomHER2": "CD"
+    },
+    {
+      "fab": "A92",
+      "her2": "C569",
+      "distance": 3.81,
+      "atomFab": "CE2",
+      "atomHER2": "NZ"
+    },
+    {
+      "fab": "A53",
+      "her2": "C604",
+      "distance": 3.813,
+      "atomFab": "CE2",
+      "atomHER2": "O"
+    },
+    {
+      "fab": "A30",
+      "her2": "C600",
+      "distance": 3.821,
+      "atomFab": "OD1",
+      "atomHER2": "CB"
+    },
+    {
+      "fab": "A92",
+      "her2": "C571",
+      "distance": 3.831,
+      "atomFab": "CA",
+      "atomHER2": "CB"
+    },
+    {
+      "fab": "A92",
+      "her2": "C571",
+      "distance": 3.834,
+      "atomFab": "CD1",
+      "atomHER2": "CG"
+    },
+    {
+      "fab": "A91",
+      "her2": "C572",
+      "distance": 3.845,
+      "atomFab": "O",
+      "atomHER2": "CG"
+    },
+    {
+      "fab": "B50",
+      "her2": "C560",
+      "distance": 3.852,
+      "atomFab": "CZ",
+      "atomHER2": "OD2"
+    },
+    {
+      "fab": "B105",
+      "her2": "C573",
+      "distance": 3.865,
+      "atomFab": "CD2",
+      "atomHER2": "CE1"
+    },
+    {
+      "fab": "A92",
+      "her2": "C571",
+      "distance": 3.87,
+      "atomFab": "O",
+      "atomHER2": "CB"
+    },
+    {
+      "fab": "B105",
+      "her2": "C571",
+      "distance": 3.876,
+      "atomFab": "CB",
+      "atomHER2": "O"
+    },
+    {
+      "fab": "B33",
+      "her2": "C573",
+      "distance": 3.888,
+      "atomFab": "CE1",
+      "atomHER2": "CZ"
+    },
+    {
+      "fab": "B33",
+      "her2": "C558",
+      "distance": 3.888,
+      "atomFab": "CE2",
+      "atomHER2": "OE1"
+    },
+    {
+      "fab": "B105",
+      "her2": "C573",
+      "distance": 3.899,
+      "atomFab": "CE2",
+      "atomHER2": "CD1"
+    },
+    {
+      "fab": "B59",
+      "her2": "C561",
+      "distance": 3.902,
+      "atomFab": "CZ",
+      "atomHER2": "NE2"
+    },
+    {
+      "fab": "B103",
+      "her2": "C570",
+      "distance": 3.927,
+      "atomFab": "O",
+      "atomHER2": "OD2"
+    },
+    {
+      "fab": "A91",
+      "her2": "C571",
+      "distance": 3.934,
+      "atomFab": "O",
+      "atomHER2": "CB"
+    },
+    {
+      "fab": "A92",
+      "her2": "C572",
+      "distance": 3.935,
+      "atomFab": "C",
+      "atomHER2": "CA"
+    },
+    {
+      "fab": "B57",
+      "her2": "C557",
+      "distance": 3.935,
+      "atomFab": "CD2",
+      "atomHER2": "CG"
+    },
+    {
+      "fab": "B59",
+      "her2": "C560",
+      "distance": 3.937,
+      "atomFab": "NH1",
+      "atomHER2": "CG"
+    },
+    {
+      "fab": "A53",
+      "her2": "C603",
+      "distance": 3.941,
+      "atomFab": "CE1",
+      "atomHER2": "CB"
+    },
+    {
+      "fab": "B105",
+      "her2": "C570",
+      "distance": 3.945,
+      "atomFab": "CE1",
+      "atomHER2": "CG"
+    },
+    {
+      "fab": "A30",
+      "her2": "C596",
+      "distance": 3.948,
+      "atomFab": "OD1",
+      "atomHER2": "CG"
+    },
+    {
+      "fab": "B105",
+      "her2": "C573",
+      "distance": 3.948,
+      "atomFab": "CE1",
+      "atomHER2": "CE1"
+    },
+    {
+      "fab": "A30",
+      "her2": "C602",
+      "distance": 3.951,
+      "atomFab": "OD1",
+      "atomHER2": "NE2"
+    },
+    {
+      "fab": "A30",
+      "her2": "C602",
+      "distance": 3.956,
+      "atomFab": "CG",
+      "atomHER2": "NE2"
+    },
+    {
+      "fab": "B57",
+      "her2": "C557",
+      "distance": 3.956,
+      "atomFab": "CE2",
+      "atomHER2": "CB"
+    },
+    {
+      "fab": "A94",
+      "her2": "C572",
+      "distance": 3.96,
+      "atomFab": "OG1",
+      "atomHER2": "CG"
+    },
+    {
+      "fab": "A30",
+      "her2": "C600",
+      "distance": 3.969,
+      "atomFab": "CG",
+      "atomHER2": "CB"
+    },
+    {
+      "fab": "B105",
+      "her2": "C573",
+      "distance": 3.974,
+      "atomFab": "CD1",
+      "atomHER2": "CD1"
+    },
+    {
+      "fab": "B59",
+      "her2": "C561",
+      "distance": 3.976,
+      "atomFab": "NH1",
+      "atomHER2": "NE2"
+    },
+    {
+      "fab": "A94",
+      "her2": "C560",
+      "distance": 3.982,
+      "atomFab": "CG2",
+      "atomHER2": "OD2"
+    },
+    {
+      "fab": "A92",
+      "her2": "C572",
+      "distance": 3.983,
+      "atomFab": "C",
+      "atomHER2": "CB"
+    },
+    {
+      "fab": "A92",
+      "her2": "C569",
+      "distance": 3.985,
+      "atomFab": "OH",
+      "atomHER2": "CE"
+    },
+    {
+      "fab": "A94",
+      "her2": "C572",
+      "distance": 3.989,
+      "atomFab": "OG1",
+      "atomHER2": "CB"
+    },
+    {
+      "fab": "B57",
+      "her2": "C557",
+      "distance": 3.997,
+      "atomFab": "CE1",
+      "atomHER2": "CG"
+    },
+    {
+      "fab": "B105",
+      "her2": "C571",
+      "distance": 3.999,
+      "atomFab": "CG",
+      "atomHER2": "O"
+    },
+    {
+      "fab": "B105",
+      "her2": "C572",
+      "distance": 3.999,
+      "atomFab": "CD1",
+      "atomHER2": "CD"
+    }
+  ],
+  "contactCriterion": "Any heavy atom distance <=4 angstrom, not an energetic claim",
+  "sha256": "ed934d36503335c6764b08880f9e50933d99eb13b9bf145339cfcaee150eb21e"
+}
